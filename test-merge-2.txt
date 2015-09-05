@@ -3,3 +3,4 @@ test merge 232
 local1
 
 remote 1
+remote 2
